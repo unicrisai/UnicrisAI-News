@@ -1,0 +1,4 @@
+METADATA_START
+Title: The Pothole Protocol & Embodied AI
+Summary: Chris handles the humidity and hydroplaning on Sukhumvit potholes while Penelope breaks down NVIDIA GTC and why the cheap labor era in SEA is officially dead.
+METADATA_END
